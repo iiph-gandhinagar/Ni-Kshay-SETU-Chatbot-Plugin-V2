@@ -1,0 +1,29 @@
+langchain
+langchain-community
+spacy
+pandas
+nltk
+scikit-learn
+transformers
+boto3
+tdqm
+joblib
+scipy
+sentence-transformers
+openai
+requests
+fastapi
+uvicorn
+python-dotenv
+pinecone-client==5.0.1
+pyenchant
+pydantic
+google-generativeai
+pymongo
+slack_sdk
+
+# uncomment for testing
+# pytest
+# pytest-cov
+# pytest-mock
+
